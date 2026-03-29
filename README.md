@@ -27,17 +27,7 @@
 
 ---
 
-# 📊 GitHub Stats:
-<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roswel0710&theme=github_dark" alt="Profile Details" /><br/>
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=roswel0710&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roswel0710&theme=github_dark" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roswel0710&theme=github_dark" alt="Stats" />
-
-</div>
-
----
 
 # 💡 Quote:
 <div align="center">
