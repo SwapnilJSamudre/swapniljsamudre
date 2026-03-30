@@ -86,7 +86,7 @@ Enterprise BI solution spanning **40+ markets** across supply chain, demand plan
 
 ---
 
-#### 📊 [Customer Segmentation & Churn Prediction](https://github.com/roswel0710/Customer-Segmentation-and-Churn-Prediction)
+#### 📊 [Customer Segmentation & Churn Prediction](https://github.com/swapniljsamudre/Customer-Segmentation-and-Churn-Prediction)
 > `Python` `scikit-learn` `K-Means` `PCA` `pandas`
 
 ML-powered segmentation model for **9,000+ credit card users**.
@@ -97,7 +97,7 @@ ML-powered segmentation model for **9,000+ credit card users**.
 
 ---
 
-#### 🛒 [Python Diwali Store Sales Analysis](https://github.com/roswel0710/Python-Diwali-Store-Sales-Analysis)
+#### 🛒 [Python Diwali Store Sales Analysis](https://github.com/swapniljsamudre/Python-Diwali-Store-Sales-Analysis)
 > `Python` `pandas` `matplotlib` `seaborn` `EDA`
 
 Deep-dive EDA into India's Diwali festive season sales data.
@@ -108,7 +108,7 @@ Deep-dive EDA into India's Diwali festive season sales data.
 
 ---
 
-#### 📦 [Madhav E-Commerce Sales Dashboard](https://github.com/roswel0710/Madhav-Ecommerce-Sales-Data-Analysis) *(Power BI)*
+#### 📦 [Madhav E-Commerce Sales Dashboard](https://github.com/swapniljsamudre/Madhav-Ecommerce-Sales-Data-Analysis) *(Power BI)*
 > `Power BI` `DAX` `Data Modelling` `Interactive Dashboards`
 
 End-to-end Power BI dashboard for pan-India online retail tracking.
@@ -120,14 +120,14 @@ End-to-end Power BI dashboard for pan-India online retail tracking.
 
 ---
 
-#### 🏪 [SN Corporation Sales Analysis](https://github.com/roswel0710/SN-Corporation-Sales-Analysis-PowerBI) *(Power BI)*
+#### 🏪 [SN Corporation Sales Analysis](https://github.com/swapniljsamudre/SN-Corporation-Sales-Analysis-PowerBI) *(Power BI)*
 > `Power BI` `DAX` `Business Analytics`
 
 Sales performance dashboard for SN Corporation — product, region, and revenue trend analysis with dynamic filtering and executive-ready visuals.
 
 ---
 
-#### 🚕 [Cab Fare Price Prediction](https://github.com/roswel0710/Python-Cab-Fare-Price-Prediction)
+#### 🚕 [Cab Fare Price Prediction](https://github.com/swapniljsamudre/Python-Cab-Fare-Price-Prediction)
 > `Python` `scikit-learn` `Regression` `Feature Engineering`
 
 ML regression model for a cab startup entering national scale operations.
