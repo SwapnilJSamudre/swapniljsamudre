@@ -17,7 +17,7 @@
 
 > **I don't just build dashboards — I build decision engines.**
 
-I'm a **Senior Data Analytics & BI Engineer** with **5+ years** of experience delivering enterprise BI ecosystems across **SaaS, FMCG, Finance, and Supply Chain** — from Mumbai to 40+ global markets.
+I'm a **Senior Data Analytics & BI Engineer** with **6+ years** of experience delivering enterprise BI ecosystems across **SaaS, FMCG, Finance, and Supply Chain** — from Mumbai to 40+ global markets.
 
 My work sits at the intersection of **data engineering, business intelligence, and machine learning** — I translate messy, fragmented data into clean, scalable, decision-ready systems that executives actually trust and use.
 
